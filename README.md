@@ -7,7 +7,9 @@
 ## **Functionality**
 
 ✅ **URL shortening** – POST `/` → returns a short ID
+
 ✅ **Redirect** – GET `/{short_id}` → redirects to the source URL (307)
+
 ✅ **Asynchronous endpoint** – GET `/async-data` → asynchrony test
 
 ---
