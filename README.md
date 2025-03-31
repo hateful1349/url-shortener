@@ -32,7 +32,7 @@
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/ваш-username/url-shortener.git
+git clone https://github.com/hateful1349/url-shortener.git
 cd url-shortener
 ```
 ### 2. Create a virtual environment
